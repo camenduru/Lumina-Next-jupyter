@@ -8,8 +8,8 @@
 
 | Notebook | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Lumina-Next-jupyter/blob/main/Lumina_Next_jupyter.ipynb) | Lumina_Next_jupyter (Pro Colab 😭 T4 Not Compatible with Flash Attention 2)
 <a target="_blank" href="https://lightning.ai/camenduru/studios/lumina-next-jupyter"> <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/></a> | lumina-next-jupyter (Free Lightning Studio)
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Lumina-Next-jupyter/blob/main/Lumina_Next_Mini_jupyter.ipynb) | Lumina_Next_Mini_jupyter -->
 
 ### 🧬 Code
 https://github.com/Alpha-VLLM/Lumina-T2X <br />
